@@ -2,5 +2,6 @@
 __pycache__/
 .ipynb_checkpoints/
 *.parquet
+*.twbr
 *.csv
 !data/raw/brazil_state_median_income_2017.csv
